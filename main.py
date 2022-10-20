@@ -1,1 +1,1 @@
-print("Hello world!")
+print("Kitties rule the world!")
